@@ -16,7 +16,18 @@ to work with.
 
 **Testing the Application**
 
-- Test the application by running `npm test`.
+- Automated tests of the application can be run by running `npm test` on terminal in the root directory.
+- You can test the endpoint in action by starting the application and 
+making a request to `/extractions/matches` with a request body like
+```{
+     
+     {"sentences": ["Furthermore, please confirm your organisation's contact details according to the instructions set out in the sheet attached hereto.", 
+     
+     "We acknowledge and agree to the matters set out in your Confidentiality Agreement dated PLACEHOLDER(of which this is a copy)."]
+
+} 
+ ```
+ 
 
 
 **Improvements** 
