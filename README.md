@@ -24,6 +24,7 @@ to work with.
 strategy to confirm the endpoint use worker threads.
 - It can also be improved by adding a documentation 
 for the endpoint e.g using swagger-ui.
+- Addition of test coverage reporter.
 
 
   
