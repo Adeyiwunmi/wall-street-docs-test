@@ -28,8 +28,6 @@ making a request to `/extractions/matches` with a request body like
 } 
  ```
  
-
-
 **Improvements** 
 - The application can be improved by adding a test 
 strategy to confirm the endpoint use worker threads.
