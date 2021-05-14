@@ -1,4 +1,4 @@
-# **WALL STREET DOCS TEST**
+
 
 This is a node js application that finds top matches between 
 sentences sent to it and some predefined sentences in a local database.
